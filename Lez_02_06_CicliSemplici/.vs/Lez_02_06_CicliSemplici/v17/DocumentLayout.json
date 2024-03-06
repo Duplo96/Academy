@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_06_CicliSemplici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F58074E-6E33-43BE-974C-3A3D174950B2}|Lez_02_06_CicliSemplici\\Lez_02_06_CicliSemplici.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\lez_02_06_ciclisemplici\\lez_02_06_ciclisemplici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F58074E-6E33-43BE-974C-3A3D174950B2}|Lez_02_06_CicliSemplici\\Lez_02_06_CicliSemplici.csproj|solutionrelative:lez_02_06_ciclisemplici\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_06_CicliSemplici\\Lez_02_06_CicliSemplici\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_02_06_CicliSemplici\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_06_CicliSemplici\\Lez_02_06_CicliSemplici\\Program.cs",
+              "RelativeToolTip": "Lez_02_06_CicliSemplici\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwEkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:39:12.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
