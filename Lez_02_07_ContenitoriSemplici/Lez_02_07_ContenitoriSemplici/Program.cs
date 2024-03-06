@@ -86,13 +86,10 @@
              * trasformarla in un array evitando le ripetizioni
              */
 
-            string? pippo= "Giovanni,Valeria,Mario";
-            char[] arr;
-            arr = pippo.ToCharArray(0, 22);  
-            foreach (char item in arr) {
-                Console.WriteLine();
-                Console.WriteLine(item);
-            };
+            string? nomi= "Giovanni,Valeria,Marika,Mario,Valeria";
+            string[] lista = new string [5];
+
+           
         }
     }
 }

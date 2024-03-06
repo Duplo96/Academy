@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj": {}
+    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj": {
+    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj",
+        "projectUniqueName": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj",
         "projectName": "Lez_02_07_ContenitoriSemplici",
-        "projectPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj",
+        "projectPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici.csproj",
         "packagesPath": "C:\\Users\\Utente.ACADEMY2024-15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\obj\\",
+        "outputPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_07_ContenitoriSemplici\\Lez_02_07_ContenitoriSemplici\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
