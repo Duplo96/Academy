@@ -1,0 +1,14 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\bin\Debug\net8.0\Lez_03_05_MetodiInnestati.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\bin\Debug\net8.0\Lez_03_05_MetodiInnestati.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\bin\Debug\net8.0\Lez_03_05_MetodiInnestati.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\bin\Debug\net8.0\Lez_03_05_MetodiInnestati.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\bin\Debug\net8.0\Lez_03_05_MetodiInnestati.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\Lez_03_05_MetodiInnestati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\Lez_03_05_MetodiInnestati.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\Lez_03_05_MetodiInnestati.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\Lez_03_05_MetodiInnestati.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\Lez_03_05_MetodiInnestati.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\refint\Lez_03_05_MetodiInnestati.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\Lez_03_05_MetodiInnestati.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\Lez_03_05_MetodiInnestati.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_05_MetodiInnestati\Lez_03_05_MetodiInnestati\obj\Debug\net8.0\ref\Lez_03_05_MetodiInnestati.dll

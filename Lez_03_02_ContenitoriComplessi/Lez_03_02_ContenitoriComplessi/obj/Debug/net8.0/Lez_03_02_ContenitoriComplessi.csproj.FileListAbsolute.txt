@@ -1,0 +1,14 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\Lez_03_02_ContenitoriComplessi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\Lez_03_02_ContenitoriComplessi.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\Lez_03_02_ContenitoriComplessi.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\Lez_03_02_ContenitoriComplessi.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\bin\Debug\net8.0\Lez_03_02_ContenitoriComplessi.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\bin\Debug\net8.0\Lez_03_02_ContenitoriComplessi.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\bin\Debug\net8.0\Lez_03_02_ContenitoriComplessi.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\bin\Debug\net8.0\Lez_03_02_ContenitoriComplessi.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\bin\Debug\net8.0\Lez_03_02_ContenitoriComplessi.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\Lez_03_02_ContenitoriComplessi.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\refint\Lez_03_02_ContenitoriComplessi.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\Lez_03_02_ContenitoriComplessi.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\Lez_03_02_ContenitoriComplessi.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Lez_03_02_ContenitoriComplessi\Lez_03_02_ContenitoriComplessi\obj\Debug\net8.0\ref\Lez_03_02_ContenitoriComplessi.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_03_02_ContenitoriComplessi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5081ED-5C17-40BC-9559-D675176AC75B}|Lez_03_02_ContenitoriComplessi\\Lez_03_02_ContenitoriComplessi.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\lez_03_02_contenitoricomplessi\\lez_03_02_contenitoricomplessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5081ED-5C17-40BC-9559-D675176AC75B}|Lez_03_02_ContenitoriComplessi\\Lez_03_02_ContenitoriComplessi.csproj|solutionrelative:lez_03_02_contenitoricomplessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_03_02_ContenitoriComplessi\\Lez_03_02_ContenitoriComplessi\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_03_02_ContenitoriComplessi\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Lez_03_02_ContenitoriComplessi\\Lez_03_02_ContenitoriComplessi\\Program.cs",
+              "RelativeToolTip": "Lez_03_02_ContenitoriComplessi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:21:46.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
