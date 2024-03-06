@@ -86,22 +86,51 @@
              * trasformarla in un array evitando le ripetizioni
              */
 
-            string? nomi= "Giovanni,Valeria,Marika,Mario,Valeria";
-            string[] lista = nomi.Split(",");
-            foreach(string nome in lista)
+            string? lista = "Giovanni,Valeria,Marika,Mario,Valeria";
+            string[] arrayNomi = lista.Split(",");
+            string nomeDaCercare = "marika";
+            foreach(string nome in arrayNomi)
             {
-                try
-                {
-                    if (nome.Equals(nome))
-                        Console.WriteLine(nome);
-
-                }
-                catch {
-                    Console.WriteLine("");
-                }
+                if (nome.ToUpper().Equals(nomeDaCercare.ToUpper()) )
+                    Console.WriteLine($"Ho trovato {nome}");
             }
 
-           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            //for (int i = 0; i < lista.Length; i++) {
+
+            //    if (lista.Contains("Valeria"))
+            //        {
+            //        int indiceUtenteDaRimuovere = lista[i].IndexOf("Valeria");
+            //        Console.WriteLine(indiceUtenteDaRimuovere);
+            //        bool esiste = indiceUtenteDaRimuovere == 0;
+            //        if(esiste)
+            //        {
+                        
+            //        }
+
+
+            //    }
+            //}
+
         }
+        //------------------------------------------------
+
+
+
     }
 }
+
