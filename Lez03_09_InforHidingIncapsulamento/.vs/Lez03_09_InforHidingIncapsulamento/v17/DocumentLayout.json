@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez03_09_inforhidingincapsulamento\\lez03_09_inforhidingincapsulamento\\classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|solutionrelative:lez03_09_inforhidingincapsulamento\\classes\\monopattino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez03_09_inforhidingincapsulamento\\lez03_09_inforhidingincapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|solutionrelative:lez03_09_inforhidingincapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez03_09_inforhidingincapsulamento\\lez03_09_inforhidingincapsulamento\\classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|solutionrelative:lez03_09_inforhidingincapsulamento\\classes\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez03_09_inforhidingincapsulamento\\lez03_09_inforhidingincapsulamento\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6904E83-AA8A-47B5-A178-401B7597A9AE}|Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento.csproj|solutionrelative:lez03_09_inforhidingincapsulamento\\classes\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Lez03_09_InforHidingIncapsulamento\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Program.cs",
+              "RelativeToolTip": "Lez03_09_InforHidingIncapsulamento\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:52:37.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monopattino.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Classes\\Monopattino.cs",
+              "RelativeDocumentMoniker": "Lez03_09_InforHidingIncapsulamento\\Classes\\Monopattino.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Classes\\Monopattino.cs",
+              "RelativeToolTip": "Lez03_09_InforHidingIncapsulamento\\Classes\\Monopattino.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:31:53.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Classes\\Moto.cs",
+              "RelativeDocumentMoniker": "Lez03_09_InforHidingIncapsulamento\\Classes\\Moto.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Classes\\Moto.cs",
+              "RelativeToolTip": "Lez03_09_InforHidingIncapsulamento\\Classes\\Moto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:15:57.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Classes\\Automobile.cs",
+              "RelativeDocumentMoniker": "Lez03_09_InforHidingIncapsulamento\\Classes\\Automobile.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez03_09_InforHidingIncapsulamento\\Lez03_09_InforHidingIncapsulamento\\Classes\\Automobile.cs",
+              "RelativeToolTip": "Lez03_09_InforHidingIncapsulamento\\Classes\\Automobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:56:52.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\bin\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\bin\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\bin\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\bin\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\bin\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\refint\Lez03_09_InforHidingIncapsulamento.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\Lez03_09_InforHidingIncapsulamento.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez03_09_InforHidingIncapsulamento\Lez03_09_InforHidingIncapsulamento\obj\Debug\net8.0\ref\Lez03_09_InforHidingIncapsulamento.dll

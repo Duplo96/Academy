@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lez_03_08_ClassiEdOggetti", "Lez_03_08_ClassiEdOggetti\Lez_03_08_ClassiEdOggetti.csproj", "{F969CCEA-E7D8-4640-80CE-EC768CE1AABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F969CCEA-E7D8-4640-80CE-EC768CE1AABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F969CCEA-E7D8-4640-80CE-EC768CE1AABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F969CCEA-E7D8-4640-80CE-EC768CE1AABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F969CCEA-E7D8-4640-80CE-EC768CE1AABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C57A76-E467-497A-B90A-0B4917A44F65}
+	EndGlobalSection
+EndGlobal
