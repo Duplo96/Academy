@@ -87,7 +87,19 @@
              */
 
             string? nomi= "Giovanni,Valeria,Marika,Mario,Valeria";
-            string[] lista = new string [5];
+            string[] lista = nomi.Split(",");
+            foreach(string nome in lista)
+            {
+                try
+                {
+                    if (nome.Equals(nome))
+                        Console.WriteLine(nome);
+
+                }
+                catch {
+                    Console.WriteLine("");
+                }
+            }
 
            
         }

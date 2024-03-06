@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lez_02_06_CicliSemplici")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c4eaa387235cd6540f5cacc8cd69776041eb709")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lez_02_06_CicliSemplici")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lez_02_06_CicliSemplici")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
