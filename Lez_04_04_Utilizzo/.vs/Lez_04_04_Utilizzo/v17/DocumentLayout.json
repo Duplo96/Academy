@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_04_Utilizzo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_04_utilizzo\\lez_04_04_utilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|solutionrelative:lez_04_04_utilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_04_utilizzo\\lez_04_04_utilizzo\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|solutionrelative:lez_04_04_utilizzo\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_04_utilizzo\\lez_04_04_utilizzo\\indirizzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|solutionrelative:lez_04_04_utilizzo\\indirizzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_04_utilizzo\\lez_04_04_utilizzo\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|solutionrelative:lez_04_04_utilizzo\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_04_utilizzo\\lez_04_04_utilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC374D67-3812-4D86-93EE-BF7D70BCA7B9}|Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo.csproj|solutionrelative:lez_04_04_utilizzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 129,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Utente.cs",
               "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo\\Utente.cs",
               "RelativeDocumentMoniker": "Lez_04_04_Utilizzo\\Utente.cs",
               "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo\\Utente.cs",
               "RelativeToolTip": "Lez_04_04_Utilizzo\\Utente.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAfAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T11:17:29.976Z",
               "EditorCaption": ""
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo\\Program.cs",
               "RelativeDocumentMoniker": "Lez_04_04_Utilizzo\\Program.cs",
               "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_04_Utilizzo\\Lez_04_04_Utilizzo\\Program.cs",
               "RelativeToolTip": "Lez_04_04_Utilizzo\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCQAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T10:55:42.277Z",
               "EditorCaption": ""

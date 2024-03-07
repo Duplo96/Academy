@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_08_ContenitoriComplessi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D589F7E7-E0B8-4079-B315-81FB768771DA}|Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_08_contenitoricomplessi\\lez_04_08_contenitoricomplessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D589F7E7-E0B8-4079-B315-81FB768771DA}|Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi.csproj|solutionrelative:lez_04_08_contenitoricomplessi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D589F7E7-E0B8-4079-B315-81FB768771DA}|Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_08_contenitoricomplessi\\lez_04_08_contenitoricomplessi\\classes\\contatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D589F7E7-E0B8-4079-B315-81FB768771DA}|Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi.csproj|solutionrelative:lez_04_08_contenitoricomplessi\\classes\\contatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contatto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi\\Classes\\Contatto.cs",
+              "RelativeDocumentMoniker": "Lez_04_08_ContenitoriComplessi\\Classes\\Contatto.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi\\Classes\\Contatto.cs",
+              "RelativeToolTip": "Lez_04_08_ContenitoriComplessi\\Classes\\Contatto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:15:12.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_04_08_ContenitoriComplessi\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_08_ContenitoriComplessi\\Lez_04_08_ContenitoriComplessi\\Program.cs",
+              "RelativeToolTip": "Lez_04_08_ContenitoriComplessi\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:55:40.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
