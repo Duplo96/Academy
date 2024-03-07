@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\bin\Debug\net8.0\Lez_03_11_Astrazione.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\bin\Debug\net8.0\Lez_03_11_Astrazione.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\bin\Debug\net8.0\Lez_03_11_Astrazione.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\bin\Debug\net8.0\Lez_03_11_Astrazione.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\bin\Debug\net8.0\Lez_03_11_Astrazione.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\refint\Lez_03_11_Astrazione.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\Lez_03_11_Astrazione.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_03_11_Astrazione\Lez_03_11_Astrazione\obj\Debug\net8.0\ref\Lez_03_11_Astrazione.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lez03_09_InforHidingIncapsulamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c0afc1c70f6d72ce77c9f94787297b4ae97cda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa842c140449d05a24bd273824e427e16c2d923")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lez03_09_InforHidingIncapsulamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lez03_09_InforHidingIncapsulamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

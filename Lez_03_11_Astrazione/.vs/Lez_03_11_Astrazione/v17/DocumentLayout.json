@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_11_astrazione\\lez_03_11_astrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|solutionrelative:lez_03_11_astrazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_11_astrazione\\lez_03_11_astrazione\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|solutionrelative:lez_03_11_astrazione\\classes\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_11_astrazione\\lez_03_11_astrazione\\classes\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|solutionrelative:lez_03_11_astrazione\\classes\\gatto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_11_astrazione\\lez_03_11_astrazione\\classes\\coccodrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|solutionrelative:lez_03_11_astrazione\\classes\\coccodrillo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_11_astrazione\\lez_03_11_astrazione\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F79F137-3B50-49C6-9B6F-7B76F251908B}|Lez_03_11_Astrazione\\Lez_03_11_Astrazione.csproj|solutionrelative:lez_03_11_astrazione\\classes\\cane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cane.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Cane.cs",
+              "RelativeDocumentMoniker": "Lez_03_11_Astrazione\\Classes\\Cane.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Cane.cs",
+              "RelativeToolTip": "Lez_03_11_Astrazione\\Classes\\Cane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:44:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coccodrillo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Coccodrillo.cs",
+              "RelativeDocumentMoniker": "Lez_03_11_Astrazione\\Classes\\Coccodrillo.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Coccodrillo.cs",
+              "RelativeToolTip": "Lez_03_11_Astrazione\\Classes\\Coccodrillo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:38:39.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gatto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Gatto.cs",
+              "RelativeDocumentMoniker": "Lez_03_11_Astrazione\\Classes\\Gatto.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Gatto.cs",
+              "RelativeToolTip": "Lez_03_11_Astrazione\\Classes\\Gatto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:36:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Animale.cs",
+              "RelativeDocumentMoniker": "Lez_03_11_Astrazione\\Classes\\Animale.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Classes\\Animale.cs",
+              "RelativeToolTip": "Lez_03_11_Astrazione\\Classes\\Animale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:34:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_03_11_Astrazione\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_11_Astrazione\\Lez_03_11_Astrazione\\Program.cs",
+              "RelativeToolTip": "Lez_03_11_Astrazione\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:33:26.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,6 +26,13 @@ namespace Lez03_09_InforHidingIncapsulamento
             Console.WriteLine(xiao.NumPersone);
             Console.WriteLine(xiao.Marca);
             Console.WriteLine(xiao.VelMax);
+
+
+
+            Bicicletta nukeproof = new Bicicletta();
+            nukeproof.HasCampanello= true;
+
+            Bicicletta commencal = new Bicicletta("Commencal", "AllMountain", false);
         }
     }
 }

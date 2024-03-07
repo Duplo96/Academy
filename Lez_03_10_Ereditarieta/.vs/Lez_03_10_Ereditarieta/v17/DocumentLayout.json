@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_10_ereditarieta\\lez_03_10_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|solutionrelative:lez_03_10_ereditarieta\\classes\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_10_ereditarieta\\lez_03_10_ereditarieta\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|solutionrelative:lez_03_10_ereditarieta\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_10_ereditarieta\\lez_03_10_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|solutionrelative:lez_03_10_ereditarieta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_03_10_ereditarieta\\lez_03_10_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D82EF7F-F18B-4AF5-83B8-07BD636B4A31}|Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta.csproj|solutionrelative:lez_03_10_ereditarieta\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Classes\\Docente.cs",
+              "RelativeDocumentMoniker": "Lez_03_10_Ereditarieta\\Classes\\Docente.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Classes\\Docente.cs",
+              "RelativeToolTip": "Lez_03_10_Ereditarieta\\Classes\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:32:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_03_10_Ereditarieta\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Program.cs",
+              "RelativeToolTip": "Lez_03_10_Ereditarieta\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:56:21.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "57410ab7-8fc7-4b31-bf09-98e2724a2d9d",
+        "Display": 0,
+        "X": -64,
+        "Y": 134,
+        "Width": 766,
+        "Height": 713,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Lez_03_10_Ereditarieta\\Classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Classes\\Studente.cs",
+              "RelativeToolTip": "Lez_03_10_Ereditarieta\\Classes\\Studente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:04:12.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "aa8fc5c0-cd48-4a45-976b-aaa8f6ce0b5c",
+        "Display": 0,
+        "X": 1275,
+        "Y": -22,
+        "Width": 778,
+        "Height": 829,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Lez_03_10_Ereditarieta\\Classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_03_10_Ereditarieta\\Lez_03_10_Ereditarieta\\Classes\\Persona.cs",
+              "RelativeToolTip": "Lez_03_10_Ereditarieta\\Classes\\Persona.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:02:57.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
