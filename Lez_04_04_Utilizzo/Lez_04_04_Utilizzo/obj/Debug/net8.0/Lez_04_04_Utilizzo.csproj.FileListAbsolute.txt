@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\bin\Debug\net8.0\Lez_04_04_Utilizzo.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\bin\Debug\net8.0\Lez_04_04_Utilizzo.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\bin\Debug\net8.0\Lez_04_04_Utilizzo.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\bin\Debug\net8.0\Lez_04_04_Utilizzo.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\bin\Debug\net8.0\Lez_04_04_Utilizzo.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\refint\Lez_04_04_Utilizzo.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\Lez_04_04_Utilizzo.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_04_Utilizzo\Lez_04_04_Utilizzo\obj\Debug\net8.0\ref\Lez_04_04_Utilizzo.dll

@@ -8,7 +8,7 @@ namespace Lez_04_03_Task.Classes
 {
     internal  class Veicolo
     {
-        public string Targa { get; set; }
+        
 
         public int Telaio { get; set; }
 
@@ -18,7 +18,7 @@ namespace Lez_04_03_Task.Classes
         {
 
 
-            return $" Targa: {Targa} Telaio: {Telaio} Numero porte: {NumeroPorte} ";
+            return $" Telaio: {Telaio} Numero porte: {NumeroPorte} ";
         }
     }
 }

@@ -9,6 +9,7 @@ namespace Lez_04_03_Task.Classes
     internal class Moto: Veicolo
     {
         public bool HasPortapacchi { get; set; }
+        public string? Targa { get; set; }
 
 
         public override string ToString()

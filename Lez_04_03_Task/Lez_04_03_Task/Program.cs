@@ -50,6 +50,30 @@ namespace Lez_04_03_Task
                         }
                         break;
                     case "2":
+                        try
+                        {
+                            Console.WriteLine("Inserisci Targa");
+                            string? inTarga = Console.ReadLine();
+                            Console.WriteLine("Inserisci Telaio");
+                            int inTelaio = Convert.ToInt32(Console.ReadLine());
+                            Console.WriteLine("Inserisci Porte");
+                            int inPorte = Convert.ToInt32(Console.ReadLine());
+                            Console.WriteLine("Ha il portapacchi?");
+                            
+
+                            Moto moto= new Moto()
+                            {
+                                
+                                Targa = inTarga,
+                                Telaio = inTelaio,
+                                NumeroPorte = inPorte
+                            };
+                            Console.WriteLine(moto);
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine(ex.Message);
+                        }
                         break;
                     case "Q":
                         insAbi = !insAbi;

@@ -9,8 +9,8 @@ namespace Lez_04_03_Task.Classes
     internal class Automobile : Veicolo
     {
 
-        public int NumeroPorte { get; set; }
-        public int Telaio { get; set; }
+       
+       
         public string? Targa { get; set; }
 
 
