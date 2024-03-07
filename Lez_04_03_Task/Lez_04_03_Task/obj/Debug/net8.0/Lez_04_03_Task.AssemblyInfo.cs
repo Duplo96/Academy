@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Lez03_09_InforHidingIncapsulamento")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lez_04_03_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ebb5d78b06a59ff9d14e8fbbcaa4ef09bcd165a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Lez03_09_InforHidingIncapsulamento")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Lez03_09_InforHidingIncapsulamento")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lez_04_03_Task")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lez_04_03_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
