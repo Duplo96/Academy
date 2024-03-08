@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\bin\Debug\net8.0\Lez_04_11_Task.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\bin\Debug\net8.0\Lez_04_11_Task.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\bin\Debug\net8.0\Lez_04_11_Task.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\bin\Debug\net8.0\Lez_04_11_Task.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\bin\Debug\net8.0\Lez_04_11_Task.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\refint\Lez_04_11_Task.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\Lez_04_11_Task.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_04_11_Task\Lez_04_11_Task\obj\Debug\net8.0\ref\Lez_04_11_Task.dll

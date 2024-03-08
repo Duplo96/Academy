@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_11_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FBB248-C13D-4ADD-87C1-9D2AC6010496}|Lez_04_11_Task\\Lez_04_11_Task.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_11_task\\lez_04_11_task\\classes\\stanza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FBB248-C13D-4ADD-87C1-9D2AC6010496}|Lez_04_11_Task\\Lez_04_11_Task.csproj|solutionrelative:lez_04_11_task\\classes\\stanza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FBB248-C13D-4ADD-87C1-9D2AC6010496}|Lez_04_11_Task\\Lez_04_11_Task.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_11_task\\lez_04_11_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FBB248-C13D-4ADD-87C1-9D2AC6010496}|Lez_04_11_Task\\Lez_04_11_Task.csproj|solutionrelative:lez_04_11_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FBB248-C13D-4ADD-87C1-9D2AC6010496}|Lez_04_11_Task\\Lez_04_11_Task.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_04_11_task\\lez_04_11_task\\classes\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FBB248-C13D-4ADD-87C1-9D2AC6010496}|Lez_04_11_Task\\Lez_04_11_Task.csproj|solutionrelative:lez_04_11_task\\classes\\oggetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stanza.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_11_Task\\Lez_04_11_Task\\Classes\\Stanza.cs",
+              "RelativeDocumentMoniker": "Lez_04_11_Task\\Classes\\Stanza.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_11_Task\\Lez_04_11_Task\\Classes\\Stanza.cs",
+              "RelativeToolTip": "Lez_04_11_Task\\Classes\\Stanza.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:21:36.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oggetto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_11_Task\\Lez_04_11_Task\\Classes\\Oggetto.cs",
+              "RelativeDocumentMoniker": "Lez_04_11_Task\\Classes\\Oggetto.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_11_Task\\Lez_04_11_Task\\Classes\\Oggetto.cs",
+              "RelativeToolTip": "Lez_04_11_Task\\Classes\\Oggetto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:26:29.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_11_Task\\Lez_04_11_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_04_11_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_04_11_Task\\Lez_04_11_Task\\Program.cs",
+              "RelativeToolTip": "Lez_04_11_Task\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:12:27.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
