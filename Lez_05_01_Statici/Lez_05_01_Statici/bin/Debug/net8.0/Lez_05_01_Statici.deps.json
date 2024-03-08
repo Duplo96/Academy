@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lez_05_01_Statici/1.0.0": {
+        "runtime": {
+          "Lez_05_01_Statici.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lez_05_01_Statici/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

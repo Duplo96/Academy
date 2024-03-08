@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\bin\Debug\net8.0\Lez_05_04_ProvaCSV.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\bin\Debug\net8.0\Lez_05_04_ProvaCSV.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\bin\Debug\net8.0\Lez_05_04_ProvaCSV.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\bin\Debug\net8.0\Lez_05_04_ProvaCSV.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\bin\Debug\net8.0\Lez_05_04_ProvaCSV.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\refint\Lez_05_04_ProvaCSV.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\Lez_05_04_ProvaCSV.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_04_ProvaCSV\Lez_05_04_ProvaCSV\obj\Debug\net8.0\ref\Lez_05_04_ProvaCSV.dll

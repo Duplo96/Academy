@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\bin\Debug\net8.0\Lez_05_03_File.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\bin\Debug\net8.0\Lez_05_03_File.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\bin\Debug\net8.0\Lez_05_03_File.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\bin\Debug\net8.0\Lez_05_03_File.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\bin\Debug\net8.0\Lez_05_03_File.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\refint\Lez_05_03_File.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\Lez_05_03_File.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_05_03_File\Lez_05_03_File\obj\Debug\net8.0\ref\Lez_05_03_File.dll

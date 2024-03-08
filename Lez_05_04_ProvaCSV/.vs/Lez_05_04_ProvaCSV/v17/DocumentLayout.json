@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_05_04_ProvaCSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A26B28-5705-4259-9B60-2EE9811A6D83}|Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_05_04_provacsv\\lez_05_04_provacsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A26B28-5705-4259-9B60-2EE9811A6D83}|Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV.csproj|solutionrelative:lez_05_04_provacsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A26B28-5705-4259-9B60-2EE9811A6D83}|Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_05_04_provacsv\\lez_05_04_provacsv\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A26B28-5705-4259-9B60-2EE9811A6D83}|Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV.csproj|solutionrelative:lez_05_04_provacsv\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV\\Classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Lez_05_04_ProvaCSV\\Classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV\\Classes\\Persona.cs",
+              "RelativeToolTip": "Lez_05_04_ProvaCSV\\Classes\\Persona.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:31:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV\\Program.cs",
+              "RelativeDocumentMoniker": "Lez_05_04_ProvaCSV\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_05_04_ProvaCSV\\Lez_05_04_ProvaCSV\\Program.cs",
+              "RelativeToolTip": "Lez_05_04_ProvaCSV\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:31:01.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
