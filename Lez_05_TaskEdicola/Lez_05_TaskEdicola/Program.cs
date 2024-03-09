@@ -35,7 +35,7 @@ namespace Lez_05_TaskEdicola
                         edicola.AggiornaQuantitaDisponibile();
                         break;
                     case "6":
-                        edicola.CercaPerTitoloDataCategoria();
+                        edicola.Cerca();
                         break;
                     case "Q":
                         continua = false;
