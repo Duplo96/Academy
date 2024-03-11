@@ -51,3 +51,5 @@
 ## **Quale è il concetti di binding in OOP e quali sono i suoi tipi?**
 
 ## **Qual è il concetto di garbage collection in oop e come funziona?**
+
+## **Mi crei una tabella con il SELECT?**
