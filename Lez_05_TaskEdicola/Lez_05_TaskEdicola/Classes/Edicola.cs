@@ -213,6 +213,7 @@ namespace Lez_05_TaskEdicola.Classes
                         Console.WriteLine("Criterio di ricerca non valido.");
                         break;
                 }
+
             }
         }
         
