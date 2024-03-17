@@ -62,27 +62,30 @@ Ogni sottoinsieme svolge un ruolo fondamentale nell'interazione con il database,
 **Breve**: Utilizzare la query "CREATE TABLE" specificando il nome della tabella e le colonne con i relativi tipi di dati.
 
 **Esaustiva**: Per creare una nuova tabella in un database SQL Server, si utilizza la seguente sintassi SQL:
-
+``` sql
 CREATE TABLE NomeTabella (
 NomeColonna1 TipoDato1,
 NomeColonna2 TipoDato2,
 ...
 NomeColonnaN TipoDatoN
 );
+```
 Ad esempio, per creare una tabella chiamata "Clienti" con le colonne "IDCliente" di tipo int e "Nome" di tipo varchar(50), si può eseguire la query:
-
+``` sql
 CREATE TABLE Clienti (
 IDCliente int,
 Nome varchar(50)
 );
+```
 È possibile specificare ulteriori vincoli come chiavi primarie, chiavi esterne, vincoli di unicità e vincoli di controllo durante la creazione della tabella.
-
+``` sql
 CREATE TABLE Ordini (
 IDOrdine int PRIMARY KEY,
 IDCliente int,
 DataOrdine date,
 FOREIGN KEY (IDCliente) REFERENCES Clienti(IDCliente)
 );
+```
 Questa query crea una tabella chiamata "Ordini" con una chiave primaria "IDOrdine", una chiave esterna "IDCliente" che fa riferimento alla tabella "Clienti", e una colonna "DataOrdine" di tipo data.
 
 ## Domanda 5: Quali sono i tipi più comuni utilizzati in SQL Server?
@@ -114,19 +117,25 @@ Questi sono solo alcuni esempi dei tipi di dati più comuni in SQL Server. È po
 **Breve**: Utilizzare la query "INSERT INTO" seguita dal nome della tabella e i valori da inserire.
 
 **Esaustiva**: Per inserire dati in una tabella SQL Server, si utilizza la seguente sintassi SQL:
-
+``` sql
 INSERT INTO NomeTabella (NomeColonna1, NomeColonna2, ..., NomeColonnaN)
 VALUES (Valore1, Valore2, ..., ValoreN);
-Ad esempio, per inserire un nuovo cliente nella tabella "Clienti" con un IDCliente pari a 1 e un nome "Mario Rossi", si può eseguire la query:
 
+```
+Ad esempio, per inserire un nuovo cliente nella tabella "Clienti" con un IDCliente pari a 1 e un nome "Mario Rossi", si può eseguire la query:
+``` sql
 INSERT INTO Clienti (IDCliente, Nome)
 VALUES (1, 'Mario Rossi');
-È anche possibile inserire più righe di dati in una singola query utilizzando la stessa sintassi:
 
+```
+È anche possibile inserire più righe di dati in una singola query utilizzando la stessa sintassi:
+``` sql
 INSERT INTO Clienti (IDCliente, Nome)
 VALUES (2, 'Luigi Verdi'),
 (3, 'Giovanna Bianchi'),
 (4, 'Anna Neri');
+
+```
 Questo inserirà quattro nuove righe nella tabella "Clienti". È importante assicurarsi che i valori inseriti rispettino i vincoli di integrità dei dati, come ad esempio la chiave primaria e i vincoli di unicità. In caso contrario, l'operazione di inserimento potrebbe generare errori.
 
 ## Domanda 7: Come modificare i dati esistenti in una tabella SQL utilizzando la query UPDATE?
@@ -134,22 +143,28 @@ Questo inserirà quattro nuove righe nella tabella "Clienti". È importante assi
 **Breve**: Utilizzare la query "UPDATE" seguita dal nome della tabella, impostando i valori da modificare e utilizzando la clausola WHERE per specificare quali righe devono essere modificate.
 
 **Esaustiva**: Per modificare i dati esistenti in una tabella SQL Server, si utilizza la seguente sintassi SQL:
-
+``` sql
 UPDATE NomeTabella
 SET NomeColonna1 = NuovoValore1, NomeColonna2 = NuovoValore2, ..., NomeColonnaN = NuovoValoreN
 WHERE Condizione;
-Ad esempio, per aggiornare il nome di un cliente con IDCliente pari a 1 nella tabella "Clienti" da "Mario Rossi" a "Marco Rossi", si può eseguire la query:
 
+```
+Ad esempio, per aggiornare il nome di un cliente con IDCliente pari a 1 nella tabella "Clienti" da "Mario Rossi" a "Marco Rossi", si può eseguire la query:
+``` sql
 UPDATE Clienti
 SET Nome = 'Marco Rossi'
 WHERE IDCliente = 1;
+
+```
 Questa query modificherà il nome del cliente con IDCliente uguale a 1 da "Mario Rossi" a "Marco Rossi".
 
 È possibile aggiornare più colonne contemporaneamente specificando più clausole "SET":
-
+``` sql
 UPDATE Tabella
 SET Colonna1 = Valore1, Colonna2 = Valore2
 WHERE Condizione;
+
+```
 Inoltre, è possibile utilizzare la clausola "WHERE" per specificare quali righe devono essere modificate. Se viene omessa, l'istruzione "UPDATE" modificherà tutte le righe della tabella. Tuttavia, è consigliabile utilizzare la clausola "WHERE" in modo da evitare modifiche non desiderate su tutte le righe della tabella.
 
 ## Domanda 8: Come modificare i dati da una tabella SQL Server utilizzando la query DELETE?
@@ -157,13 +172,17 @@ Inoltre, è possibile utilizzare la clausola "WHERE" per specificare quali righe
 **Breve**: Utilizzare la query "DELETE FROM" seguita dal nome della tabella e dalla clausola WHERE per specificare quali righe eliminare.
 
 **Esaustiva**: Per eliminare dati da una tabella SQL Server, si utilizza la seguente sintassi SQL:
-
+``` sql
 DELETE FROM NomeTabella
 WHERE Condizione;
-Ad esempio, per eliminare un cliente con IDCliente pari a 1 dalla tabella "Clienti", si può eseguire la query:
 
+```
+Ad esempio, per eliminare un cliente con IDCliente pari a 1 dalla tabella "Clienti", si può eseguire la query:
+``` sql
 DELETE FROM Clienti
 WHERE IDCliente = 1;
+
+```
 Questa query eliminerà tutte le righe dalla tabella "Clienti" che soddisfano la condizione specificata, cioè quelle con IDCliente uguale a 1.
 
 Se la clausola "WHERE" viene omessa, tutte le righe della tabella verranno eliminate. È importante utilizzare la clausola "WHERE" con attenzione per evitare di eliminare dati in modo non intenzionale.
@@ -175,28 +194,32 @@ Inoltre, è possibile utilizzare l'istruzione "DELETE" in combinazione con le cl
 **Breve**: Utilizzare la clausola "WHERE" seguita da una condizione per filtrare i risultati in base a criteri specifici.
 
 **Esaustiva**: La clausola "WHERE" è utilizzata in SQL per filtrare i risultati di una query SELECT in base a determinati criteri. Ecco un esempio:
-
+``` sql
 SELECT \*
 FROM Tabella
 WHERE Colonna = Valore;
+``` 
 In questo esempio, "Tabella" è il nome della tabella da cui si desidera selezionare i dati, "Colonna" è il nome della colonna su cui si vuole applicare il filtro e "Valore" è il valore che si vuole confrontare con i valori della colonna. Solo le righe che soddisfano la condizione specificata nella clausola "WHERE" verranno incluse nei risultati della query.
 
 È possibile combinare più condizioni utilizzando operatori logici come "AND" e "OR" per creare filtri più complessi:
-
+``` sql
 SELECT \*
 FROM Tabella
 WHERE Colonna1 = Valore1 AND Colonna2 = Valore2;
+``` 
 In questo esempio, la query selezionerà solo le righe in cui entrambe le condizioni specificate sono vere.
 
 La clausola "WHERE" può anche essere utilizzata per confrontare valori utilizzando operatori di confronto come "=", "<", ">", "<=", ">=" e "<>" (o "!=" per la disuguaglianza), oltre a utilizzare funzioni di confronto come "LIKE" per confronti parziali di stringhe e "IN" per confronti multipli:
-
+``` sql
 SELECT \*
 FROM Tabella
 WHERE Colonna LIKE 'Valore%';
-
+``` 
+``` sql
 SELECT \*
 FROM Tabella
 WHERE Colonna IN (Valore1, Valore2, Valore3);
+``` 
 Questi sono solo alcuni esempi delle molte possibilità offerte dalla clausola "WHERE" per filtrare i risultati di una query SELECT in base a criteri specifici.
 
 ## Domanda 10: Qual è la differenza tra INNER JOIN, LEFT JOIN e RIGHT JOIN in SQL Server?
@@ -206,21 +229,27 @@ Questi sono solo alcuni esempi delle molte possibilità offerte dalla clausola "
 **Esaustiva**: Le join sono utilizzate in SQL per combinare righe da due o più tabelle basate su una condizione di corrispondenza specificata. Ecco le differenze tra INNER JOIN, LEFT JOIN e RIGHT JOIN:
 
 INNER JOIN: Restituisce solo le righe che hanno corrispondenze in entrambe le tabelle coinvolte nella join. Le righe che non hanno corrispondenze vengono eliminate dal risultato finale. Ad esempio:
+``` sql
 SELECT \*
 FROM TabellaA
 INNER JOIN TabellaB ON TabellaA.ID = TabellaB.ID;
+``` 
 Questa query restituirà solo le righe che hanno un ID comune nelle tabelle "TabellaA" e "TabellaB".
 
 LEFT JOIN: Restituisce tutte le righe dalla tabella a sinistra (prima tabella specificata) e le corrispondenze dalla tabella a destra. Se non ci sono corrispondenze nella tabella a destra, vengono restituiti valori NULL per le colonne della tabella a destra. Ad esempio:
+``` sql
 SELECT \*
 FROM TabellaA
 LEFT JOIN TabellaB ON TabellaA.ID = TabellaB.ID;
+``` 
 Questa query restituirà tutte le righe dalla tabella "TabellaA" e solo le corrispondenze dalla tabella "TabellaB".
 
 RIGHT JOIN: Restituisce tutte le righe dalla tabella a destra (seconda tabella specificata) e le corrispondenze dalla tabella a sinistra. Se non ci sono corrispondenze nella tabella a sinistra, vengono restituiti valori NULL per le colonne della tabella a sinistra. Questo tipo di join è meno comune di INNER JOIN e LEFT JOIN. Ad esempio:
+``` sql
 SELECT \*
 FROM TabellaA
 RIGHT JOIN TabellaB ON TabellaA.ID = TabellaB.ID;
+``` 
 Questa query restituirà tutte le righe dalla tabella "TabellaB" e solo le corrispondenze dalla tabella "TabellaA".
 
 In **breve**, INNER JOIN restituisce solo le corrispondenze, LEFT JOIN restituisce tutte le righe dalla tabella a sinistra e le corrispondenze dalla tabella a destra, mentre RIGHT JOIN restituisce tutte le righe dalla tabella a destra e le corrispondenze dalla tabella a sinistra. La scelta del tipo di join dipende dalle esigenze specifiche della query e dalla struttura dei dati.
@@ -232,25 +261,36 @@ In **breve**, INNER JOIN restituisce solo le corrispondenze, LEFT JOIN restituis
 **Esaustiva**: Le funzioni di aggregazione sono utilizzate in SQL per eseguire calcoli su un insieme di valori e restituire un singolo risultato aggregato. Ecco le funzioni di aggregazione comuni:
 
 - SUM(): Restituisce la somma di tutti i valori in un insieme di valori.
+``` sql
   SELECT SUM(Colonna) AS Somma
   FROM Tabella;
+``` 
 - AVG(): Restituisce la media di tutti i valori in un insieme di valori numerici.
+``` sql
   SELECT AVG(Colonna) AS Media
   FROM Tabella;
+``` 
 - COUNT(): Restituisce il numero di righe in un insieme di valori.
+``` sql
   SELECT COUNT(\*) AS NumeroDiRighe
   FROM Tabella;
+``` 
 - MAX(): Restituisce il valore massimo in un insieme di valori.
+``` sql
   SELECT MAX(Colonna) AS Massimo
   FROM Tabella;
+``` 
 - MIN(): Restituisce il valore minimo in un insieme di valori.
+``` sql
   SELECT MIN(Colonna) AS Minimo
   FROM Tabella;
+``` 
   Queste sono solo alcune delle funzioni di aggregazione più comuni in SQL Server. È possibile utilizzare queste funzioni in combinazione con la clausola "GROUP BY" per eseguire calcoli aggregati su gruppi di righe basati su valori di una o più colonne.
-
+``` sql
 SELECT Colonna, SUM(AltraColonna) AS Somma
 FROM Tabella
 GROUP BY Colonna;
+``` 
 Questo esempio calcola la somma di "AltraColonna" per ogni valore unico nella colonna "Colonna". Le funzioni di aggregazione sono strumenti potenti per analizzare dati aggregati e ottenere informazioni utili dai dati memorizzati nel database.
 
 ## Domanda 12: Come utilizzare la clausola HAVING per filtrare i risultati di una query dopo aver utilizzato GROUP BY?
@@ -258,19 +298,21 @@ Questo esempio calcola la somma di "AltraColonna" per ogni valore unico nella co
 **Breve**: La clausola HAVING viene utilizzata per filtrare i risultati di una query dopo aver utilizzato GROUP BY, applicando condizioni alle righe aggregate.
 
 **Esaustiva**: Dopo aver utilizzato la clausola GROUP BY per aggregare i dati in gruppi, è possibile applicare ulteriori filtri ai risultati aggregati utilizzando la clausola HAVING. Ecco un esempio:
-
+``` sql
 SELECT ColonnaA, COUNT(_) AS NumeroDiRighe
 FROM Tabella
 GROUP BY ColonnaA
 HAVING COUNT(_) > 10;
+``` 
 In questo esempio, la query conta il numero di righe per ogni valore unico nella colonna "ColonnaA". La clausola HAVING viene utilizzata per filtrare i risultati in modo che vengano restituiti solo i gruppi in cui il numero di righe è maggiore di 10.
 
 È possibile applicare qualsiasi condizione valida alla clausola HAVING, proprio come si farebbe con la clausola WHERE. Tuttavia, mentre la clausola WHERE viene utilizzata per filtrare le righe prima dell'aggregazione, la clausola HAVING viene utilizzata per filtrare i risultati aggregati dopo l'aggregazione.
-
+``` sql
 SELECT ColonnaA, SUM(ColonnaB) AS Somma
 FROM Tabella
 GROUP BY ColonnaA
 HAVING SUM(ColonnaB) > 1000;
+``` 
 In questo esempio, la query somma i valori della colonna "ColonnaB" per ogni valore unico nella colonna "ColonnaA". La clausola HAVING viene utilizzata per restituire solo i gruppi in cui la somma dei valori di "ColonnaB" supera 1000.
 
 La clausola HAVING è un componente potente per filtrare i risultati di una query dopo l'aggregazione e può essere utilizzata per analizzare e selezionare dati in base a condizioni specifiche sui risultati aggregati.
@@ -286,20 +328,24 @@ La clausola HAVING è un componente potente per filtrare i risultati di una quer
   Le chiavi primarie garantiscono l'unicità delle righe all'interno di una tabella e forniscono un metodo efficiente per individuare rapidamente righe specifiche.
   Ogni tabella può avere una sola chiave primaria e non può contenere valori NULL.
   Esempio di definizione di una chiave primaria:
+``` sql
   CREATE TABLE Tabella (
   ID INT PRIMARY KEY,
   Nome VARCHAR(50)
   );
+``` 
 - Chiave Esterna (Foreign Key):
   Una chiave esterna è un attributo o un insieme di attributi in una tabella che stabilisce una relazione con la chiave primaria di un'altra tabella.
   Le chiavi esterne creano vincoli di integrità referenziale che garantiscono che i valori nelle colonne corrispondenti esistano nella tabella padre (tabella con la chiave primaria).
   Le chiavi esterne consentono di creare relazioni tra tabelle, consentendo di collegare informazioni correlate tra loro.
   Esempio di definizione di una chiave esterna:
+``` sql
   CREATE TABLE Ordini (
   ID INT PRIMARY KEY,
   ClienteID INT,
   FOREIGN KEY (ClienteID) REFERENCES Clienti(ID)
   );
+``` 
   In questo esempio, "ClienteID" nella tabella "Ordini" è una chiave esterna che fa riferimento alla chiave primaria "ID" nella tabella "Clienti". Ciò indica che ogni ordine è associato a un cliente esistente nella tabella "Clienti".
 
 In sintesi, le chiavi primarie e le chiavi esterne sono strumenti cruciali per la progettazione di database relazionali, consentendo di mantenere l'integrità dei dati e di stabilire relazioni significative tra le tabelle.
@@ -368,11 +414,11 @@ ROLLBACK: L'istruzione ROLLBACK viene utilizzata per annullare una transazione e
 BEGIN TRANSACTION;
 
 -- Esegui le operazioni della transazione qui
-
 IF @@ERROR <> 0
 ROLLBACK;
 ELSE
 COMMIT;
+
 In questo esempio, viene eseguito un controllo sull'eventuale presenza di errori durante l'esecuzione della transazione. Se viene rilevato un errore, la transazione viene annullata utilizzando l'istruzione ROLLBACK. In caso contrario, la transazione viene confermata con l'istruzione COMMIT.
 
 È importante utilizzare le istruzioni COMMIT e ROLLBACK in modo appropriato per garantire l'integrità dei dati e prevenire anomalie nel database. Le transazioni ben gestite contribuiscono alla coerenza e all'affidabilità del sistema di database.
@@ -390,7 +436,7 @@ Implementare logica aziendale: I trigger possono essere utilizzati per implement
 Garantire l'integrità dei dati: I trigger possono essere utilizzati per applicare regole o vincoli aziendali ai dati nel database. Ad esempio, è possibile utilizzare un trigger per verificare se i dati inseriti rispettano determinati criteri e impedire l'inserimento di dati non validi.
 
 Per creare un trigger in SQL Server, è necessario utilizzare l'istruzione CREATE TRIGGER. Ecco un esempio di come creare un trigger:
-
+``` sql
 CREATE TRIGGER NomeTrigger
 ON NomeTabella
 AFTER INSERT, UPDATE, DELETE
@@ -398,6 +444,7 @@ AS
 BEGIN
 -- Logica del trigger qui
 END;
+``` 
 In questo esempio:
 
 "NomeTrigger" è il nome del trigger che si sta creando.
@@ -413,7 +460,7 @@ All'interno del blocco di codice del trigger, è possibile inserire qualsiasi lo
 **Esaustiva**: Una stored procedure in SQL Server è un oggetto del database contenente un insieme di istruzioni SQL precompilate e salvate nel server. Le stored procedure consentono di eseguire operazioni complesse, applicare logica aziendale e creare una modularità nel codice del database. Sono utili per migliorare le prestazioni, la sicurezza e la manutenibilità del database.
 
 Ecco come creare una stored procedure in SQL Server:
-
+``` sql
 CREATE PROCEDURE NomeProcedura
 @Parametro1 TipoDato,
 @Parametro2 TipoDato
@@ -422,6 +469,7 @@ BEGIN
 -- Corpo della stored procedure
 -- Utilizzare @Parametro1 e @Parametro2 nel codice per eseguire operazioni
 END;
+``` 
 In questo esempio:
 
 "NomeProcedura" è il nome della stored procedure che si sta creando.
@@ -460,14 +508,15 @@ Le funzioni non possono modificare direttamente i dati nel database. Sono utiliz
 Ecco un esempio di definizione di una stored procedure e di una funzione in SQL Server:
 
 Stored Procedure:
-
+``` sql
 CREATE PROCEDURE NomeProcedura
 AS
 BEGIN
 -- Logica della stored procedure
 END;
+``` 
 Funzione:
-
+``` sql
 CREATE FUNCTION NomeFunzione
 (@Parametro INT)
 RETURNS INT
@@ -476,6 +525,7 @@ BEGIN
 -- Logica della funzione
 RETURN @Parametro \* 2;
 END;
+``` 
 In sintesi, le stored procedure e le funzioni sono entrambe utili strumenti per organizzare e riutilizzare il codice SQL, ma differiscono per il tipo di ritorno e per l'uso principale.
 
 ## Domanda 21: Tipicamente quante tabelle ci sono in una relazione one to many?
