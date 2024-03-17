@@ -20,7 +20,7 @@ Ad esempio, per creare un nuovo database chiamato "MyDatabase", si può eseguire
 
 CREATE DATABASE MyDatabase;
 Questa query crea un nuovo database vuoto con il nome specificato. È possibile specificare ulteriori opzioni come la dimensione iniziale del file di dati, la dimensione massima, la crescita automatica e la posizione del file di log. Per esempio:
-
+``` sql
 CREATE DATABASE MyDatabase
 ON PRIMARY
 (
@@ -38,6 +38,7 @@ SIZE = 5MB,
 MAXSIZE = 50MB,
 FILEGROWTH = 1MB
 );
+```
 Questa query crea un nuovo database chiamato "MyDatabase" con file di dati e di log specificati, impostando dimensioni iniziali, massime e incrementi di crescita automatica.
 
 ## Domanda 3: Il linguaggio SQL è divisibile in quali sottoinsiemi funzionali?
