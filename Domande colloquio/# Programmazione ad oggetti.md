@@ -8,17 +8,18 @@
 - **Incapsulamento:** Consiste nell'incorporare sia dati che metodi che operano su quei dati in un'unica entità chiamata "classe". Ciò consente di nascondere i dettagli di implementazione e di proteggere i dati, consentendo solo l'accesso tramite metodi definiti nella classe.
 
 ```C#
-public class Automobile \{
+Copy code
+public class Automobile {
     private string modello;
 
-    public string GetModello() \{
+    public string GetModello() {
         return modello;
-    \}
+    }
 
-    public void SetModello(string nuovoModello) \{
+    public void SetModello(string nuovoModello) {
         modello = nuovoModello;
-    \}
-\}
+    }
+}
 ```
 
 - **Ereditarietà:** Permette la creazione di nuove classi basate su classi esistenti, ereditando i loro attributi e comportamenti e permettendo l'estensione o la modifica di tali attributi e comportamenti.
