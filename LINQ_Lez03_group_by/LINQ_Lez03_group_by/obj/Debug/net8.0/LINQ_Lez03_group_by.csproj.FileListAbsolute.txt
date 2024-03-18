@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\bin\Debug\net8.0\LINQ_Lez03_group_by.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\bin\Debug\net8.0\LINQ_Lez03_group_by.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\bin\Debug\net8.0\LINQ_Lez03_group_by.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\bin\Debug\net8.0\LINQ_Lez03_group_by.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\bin\Debug\net8.0\LINQ_Lez03_group_by.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\refint\LINQ_Lez03_group_by.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\LINQ_Lez03_group_by.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez03_group_by\LINQ_Lez03_group_by\obj\Debug\net8.0\ref\LINQ_Lez03_group_by.dll

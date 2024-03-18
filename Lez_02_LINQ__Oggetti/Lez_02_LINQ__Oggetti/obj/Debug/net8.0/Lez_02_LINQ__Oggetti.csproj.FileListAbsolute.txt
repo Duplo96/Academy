@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\bin\Debug\net8.0\Lez_02_LINQ__Oggetti.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\bin\Debug\net8.0\Lez_02_LINQ__Oggetti.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\bin\Debug\net8.0\Lez_02_LINQ__Oggetti.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\bin\Debug\net8.0\Lez_02_LINQ__Oggetti.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\bin\Debug\net8.0\Lez_02_LINQ__Oggetti.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\refint\Lez_02_LINQ__Oggetti.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\Lez_02_LINQ__Oggetti.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\Lez_02_LINQ__Oggetti\Lez_02_LINQ__Oggetti\obj\Debug\net8.0\ref\Lez_02_LINQ__Oggetti.dll

@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\bin\Debug\net8.0\LINQ_Lez_05_join.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\bin\Debug\net8.0\LINQ_Lez_05_join.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\bin\Debug\net8.0\LINQ_Lez_05_join.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\bin\Debug\net8.0\LINQ_Lez_05_join.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\bin\Debug\net8.0\LINQ_Lez_05_join.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\refint\LINQ_Lez_05_join.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\LINQ_Lez_05_join.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_Lez_05_join\LINQ_Lez_05_join\obj\Debug\net8.0\ref\LINQ_Lez_05_join.dll

@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\bin\Debug\net8.0\LINQ_lez_01_filtro__numeri.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\bin\Debug\net8.0\LINQ_lez_01_filtro__numeri.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\bin\Debug\net8.0\LINQ_lez_01_filtro__numeri.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\bin\Debug\net8.0\LINQ_lez_01_filtro__numeri.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\bin\Debug\net8.0\LINQ_lez_01_filtro__numeri.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\refint\LINQ_lez_01_filtro__numeri.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\LINQ_lez_01_filtro__numeri.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\LINQ_lez_01_filtro__numeri\LINQ_lez_01_filtro__numeri\obj\Debug\net8.0\ref\LINQ_lez_01_filtro__numeri.dll
