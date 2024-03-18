@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\bin\Debug\net8.0\TaskLINQ.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\bin\Debug\net8.0\TaskLINQ.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\bin\Debug\net8.0\TaskLINQ.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\bin\Debug\net8.0\TaskLINQ.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\bin\Debug\net8.0\TaskLINQ.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\refint\TaskLINQ.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\TaskLINQ.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\TaskLINQ\TaskLINQ\obj\Debug\net8.0\ref\TaskLINQ.dll

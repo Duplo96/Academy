@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_LINQ__Oggetti\\",
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_02_Oggetti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2B8EDC5-39AE-4B4C-A49A-4DFC43715207}|Lez_02_LINQ__Oggetti\\Lez_02_LINQ__Oggetti.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\lez_02_linq__oggetti\\lez_02_linq__oggetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2B8EDC5-39AE-4B4C-A49A-4DFC43715207}|Lez_02_LINQ__Oggetti\\Lez_02_LINQ__Oggetti.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\linq_lez_02_oggetti\\lez_02_linq__oggetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2B8EDC5-39AE-4B4C-A49A-4DFC43715207}|Lez_02_LINQ__Oggetti\\Lez_02_LINQ__Oggetti.csproj|solutionrelative:lez_02_linq__oggetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_LINQ__Oggetti\\Lez_02_LINQ__Oggetti\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_02_Oggetti\\Lez_02_LINQ__Oggetti\\Program.cs",
               "RelativeDocumentMoniker": "Lez_02_LINQ__Oggetti\\Program.cs",
-              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\Lez_02_LINQ__Oggetti\\Lez_02_LINQ__Oggetti\\Program.cs*",
-              "RelativeToolTip": "Lez_02_LINQ__Oggetti\\Program.cs*",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_02_Oggetti\\Lez_02_LINQ__Oggetti\\Program.cs",
+              "RelativeToolTip": "Lez_02_LINQ__Oggetti\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T11:07:21.141Z",

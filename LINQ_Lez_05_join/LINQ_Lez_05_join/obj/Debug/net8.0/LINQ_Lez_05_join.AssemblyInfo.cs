@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQ_Lez_05_join")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0fc44aa51533022ae6826cabd4c46056c284f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+335ef398990fd09293ae0d0157af6578b88ffbc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQ_Lez_05_join")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQ_Lez_05_join")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
