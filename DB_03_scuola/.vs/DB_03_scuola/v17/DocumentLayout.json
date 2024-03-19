@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\db_03_scuola\\db_03_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|solutionrelative:db_03_scuola\\dal\\studentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\db_03_scuola\\db_03_scuola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|solutionrelative:db_03_scuola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\db_03_scuola\\db_03_scuola\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|solutionrelative:db_03_scuola\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\db_03_scuola\\db_03_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|solutionrelative:db_03_scuola\\models\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\db_03_scuola\\db_03_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|solutionrelative:db_03_scuola\\dal\\docentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\db_03_scuola\\db_03_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E163B967-BC44-4A49-8F0F-DC073558F832}|DB_03_scuola\\DB_03_scuola.csproj|solutionrelative:db_03_scuola\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DAL\\IDal.cs",
+              "RelativeDocumentMoniker": "DB_03_scuola\\DAL\\IDal.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DAL\\IDal.cs",
+              "RelativeToolTip": "DB_03_scuola\\DAL\\IDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:05:23.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DAL\\DocenteDAL.cs",
+              "RelativeDocumentMoniker": "DB_03_scuola\\DAL\\DocenteDAL.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DAL\\DocenteDAL.cs",
+              "RelativeToolTip": "DB_03_scuola\\DAL\\DocenteDAL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:04:53.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudenteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DAL\\StudenteDAL.cs",
+              "RelativeDocumentMoniker": "DB_03_scuola\\DAL\\StudenteDAL.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DAL\\StudenteDAL.cs",
+              "RelativeToolTip": "DB_03_scuola\\DAL\\StudenteDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:04:38.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\Models\\Studente.cs",
+              "RelativeDocumentMoniker": "DB_03_scuola\\Models\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\Models\\Studente.cs",
+              "RelativeToolTip": "DB_03_scuola\\Models\\Studente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:03:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\Models\\Docente.cs",
+              "RelativeDocumentMoniker": "DB_03_scuola\\Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\Models\\Docente.cs",
+              "RelativeToolTip": "DB_03_scuola\\Models\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:02:54.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\Program.cs",
+              "RelativeDocumentMoniker": "DB_03_scuola\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\Program.cs",
+              "RelativeToolTip": "DB_03_scuola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:02:30.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

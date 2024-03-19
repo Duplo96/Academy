@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_05_Join\\LINQ_Lez_05_join\\LINQ_Lez_05_join.csproj": {}
+    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DB_03_scuola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_05_Join\\LINQ_Lez_05_join\\LINQ_Lez_05_join.csproj": {
+    "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DB_03_scuola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_05_Join\\LINQ_Lez_05_join\\LINQ_Lez_05_join.csproj",
-        "projectName": "LINQ_Lez_05_join",
-        "projectPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_05_Join\\LINQ_Lez_05_join\\LINQ_Lez_05_join.csproj",
+        "projectUniqueName": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DB_03_scuola.csproj",
+        "projectName": "DB_03_scuola",
+        "projectPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\DB_03_scuola.csproj",
         "packagesPath": "C:\\Users\\Utente.ACADEMY2024-15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\LINQ_Lez_05_Join\\LINQ_Lez_05_join\\obj\\",
+        "outputPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_03_scuola\\DB_03_scuola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_02_dal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0F0A9B-62BB-4905-BB00-BCA4BE76E25A}|DB_02_dal\\DB_02_dal.csproj|c:\\users\\utente.academy2024-15\\source\\repos\\academy\\db_02_dal\\db_02_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0F0A9B-62BB-4905-BB00-BCA4BE76E25A}|DB_02_dal\\DB_02_dal.csproj|solutionrelative:db_02_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_02_dal\\DB_02_dal\\Program.cs",
+              "RelativeDocumentMoniker": "DB_02_dal\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente.ACADEMY2024-15\\source\\repos\\Academy\\DB_02_dal\\DB_02_dal\\Program.cs",
+              "RelativeToolTip": "DB_02_dal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:54:04.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
