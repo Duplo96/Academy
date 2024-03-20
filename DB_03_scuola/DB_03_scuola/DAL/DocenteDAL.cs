@@ -9,6 +9,27 @@ namespace DB_03_scuola.DAL
 {
     internal class DocenteDAL : IDal<Docente>
     {
+
+        static DocenteDAL? instance;
+
+        public static DocenteDAL getInstance()
+        {
+            if (instance == null)
+                instance = new DocenteDAL();
+
+            return instance;
+        }
+
+
+        private DocenteDAL()
+        {
+            Console.WriteLine("Costrutto invocato");
+        }
+
+
+
+
+
         public bool delete(int id)
         {
             throw new NotImplementedException();

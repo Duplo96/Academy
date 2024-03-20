@@ -1,0 +1,15 @@
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\bin\Debug\net8.0\DB_03_scuola.exe
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\bin\Debug\net8.0\DB_03_scuola.deps.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\bin\Debug\net8.0\DB_03_scuola.runtimeconfig.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\bin\Debug\net8.0\DB_03_scuola.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\bin\Debug\net8.0\DB_03_scuola.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.AssemblyInfoInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.AssemblyInfo.cs
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.csproj.CoreCompileInputs.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.sourcelink.json
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\refint\DB_03_scuola.dll
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.pdb
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\DB_03_scuola.genruntimeconfig.cache
+C:\Users\Utente.ACADEMY2024-15\source\repos\Academy\DB_03_scuola\DB_03_scuola\obj\Debug\net8.0\ref\DB_03_scuola.dll

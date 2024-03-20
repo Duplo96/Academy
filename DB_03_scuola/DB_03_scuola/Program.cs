@@ -1,10 +1,13 @@
-﻿namespace DB_03_scuola
+﻿using DB_03_scuola.DAL;
+using DB_03_scuola.Models;
+namespace DB_03_scuola
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            DocenteDAL.getInstance().insert(new Docente() { });
+
         }
     }
 }

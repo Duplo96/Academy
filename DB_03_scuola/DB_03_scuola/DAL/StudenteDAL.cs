@@ -9,6 +9,7 @@ namespace DB_03_scuola.DAL
 {
     internal class StudenteDAL : IDal<Studente>
     {
+        static StudenteDAL instance;
         public bool delete(int id)
         {
             throw new NotImplementedException();
