@@ -1,0 +1,24 @@
+img {
+  width: 30%;
+}
+.menu {
+  padding-bottom: 400px;
+}
+.footer {
+  text-align: center;
+}
+.w-100 {
+  width: 100%;
+}
+.w-25 {
+  width: 25%;
+}
+.text-center {
+  text-align: center;
+}
+li {
+  list-style: none;
+}
+ul {
+  padding: 0;
+}

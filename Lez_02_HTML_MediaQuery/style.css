@@ -1,0 +1,14 @@
+.container {
+  text-align: justify;
+  width: 90%;
+  margin: auto;
+}
+
+.sfondo {
+  background-color: yellow;
+}
+@media screen and (max-width: 600px) {
+  .sfondo {
+    background-color: rgb(255, 0, 0);
+  }
+}
