@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+      integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
+      crossorigin="anonymous"
+    />
+
+    <title>Prova Form</title>
+  </head>
+  <body>
+    <div class="container mt-3">
+      <h1>Titolo</h1>
+      <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-lg-4">
+          <div class="form-group">
+            <label for="input-nome">Nome</label>
+            <input
+              id="input-nome"
+              type="text"
+              placeholder="Inserisci valore"
+              class="form-control"
+            />
+          </div>
+          <div class="form-group">
+            <label for="input-numero">Numero Animali</label>
+            <input
+              id="input-numero"
+              type="number"
+              placeholder="Inserisci valore"
+              class="form-control"
+              min="0"
+              max="999"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="input-nascita">Data di Nascita</label>
+            <input
+              id="input-nascita"
+              type="datetime-local"
+              placeholder="Inserisci valore"
+              class="form-control"
+            />
+          </div>
+          <button
+            id="bottoneSaluta"
+            class="btn btn-outline-primary btn-block"
+            onclick="dati()"
+          >
+            Salva
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+      function somma(varUno, varDue) {
+        let risultato = varUno + varDue;
+        console.log(risultato < 5 ? "5" : "3");
+        return risultato;
+      }
+    </script>
+    <input type="button" onclick="somma(2,3)" />
+  </body>
+</html>

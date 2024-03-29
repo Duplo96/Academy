@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+      integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
+      crossorigin="anonymous"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-4">
+          <div class="form-group">
+            <label for="exampleFormControlInput1">Inserisci un nome...</label>
+            <input
+              type="text"
+              class="form-control"
+              id="input-Nome"
+              placeholder="Inserisci Nome"
+            />
+            <label for="exampleFormControlInput1">Inserisci un nome...</label>
+            <input
+              type="text"
+              class="form-control"
+              id="input-Cognome"
+              placeholder="Inserisci Cognome"
+            />
+            <label for="exampleFormControlInput1">Inserisci un email...</label>
+            <input
+              type="text"
+              class="form-control"
+              id="input-mail"
+              placeholder="Inserisci E-mail"
+            />
+          </div>
+          <button class="btn btn-outline-primary" onclick="salva()">
+            Salva
+          </button>
+        </div>
+        <div class="col-4">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Nome</th>
+                <th>Cognome</th>
+                <th>E-mail</th>
+              </tr>
+            </thead>
+            <tbody id="corpo-tabella"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
