@@ -113,3 +113,11 @@ L'impronta di un contenuto è rappresentazione digitale del documento composta d
 Size viene calcolata length invece è già disponibile
 
 IIS internet information services che mi garantisce la raggiungibilità della view
+
+La scatola di penne è aggreagazione perché entrambi esistono
+Il mazzo di fiori è composizione perché il mazzo non esiste senza i fiori
+
+processo per binding statico o dinamico
+persona per = new Docente() è un binding dinamico
+
+int numero= 5 è un binding statico
