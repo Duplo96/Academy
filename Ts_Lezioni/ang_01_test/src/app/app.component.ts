@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Persona } from './persona';
 
 @Component({
   selector: 'app-root',
@@ -9,6 +10,13 @@ export class AppComponent {
   title = 'ang_01_test';
 
   constructor() {
-    console.log('ciao giovanni come stai');
+    let per = new Persona();
+    per.nome = 'Giovanni';
+    per.cognome = 'Pace';
+    per.eta = 37;
+  }
+
+  ngOnInit(): void {
+    console.log('Sono il ngOnInit di AppComponent');
   }
 }

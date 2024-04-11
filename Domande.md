@@ -83,7 +83,7 @@ Una view è una tabella virtuale il cui contenuto è definito da una query
 
 Una store procedure consiste in una richiesta SQL contenuta in un DataBase
 
-DTO Data transfer Object
+DTO Data transfer Object = Un pattern per nascondere dati tra services e controller
 
 Parte invariante del database struttura
 
@@ -121,3 +121,18 @@ processo per binding statico o dinamico
 persona per = new Docente() è un binding dinamico
 
 int numero= 5 è un binding statico
+
+Injection possiblità di creare una proprietà e iniettarla
+
+typescript super set di funzioni sulla base di javascript per renderlo typesafe
+
+typesafe= controllo del tipo per non cambiare variabili tipizzati
+
+Polimorfismo è typesafe, grazie al binding automatico si trasforma e non può più cambiare
+
+ORM: Mapping del database Object relation mapping
+
+Migrazione: è quel processo che mi permette di riversare i dettagli di una classe C# nel database tramite la creazione del DDL
+ogni modifica effettua una nuova migrazione tramite creazione di file con un timeStamp
+
+direttiva using è una direttiva che mi permette di utilizzare una variabile in un sottocontesto

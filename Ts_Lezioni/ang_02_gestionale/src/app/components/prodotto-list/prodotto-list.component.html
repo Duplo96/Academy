@@ -1,0 +1,18 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Codice</th>
+      <th>Nome</th>
+      <th>Descrizione</th>
+      <th>Prezzo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let pro of listaProd">
+      <td>{{ pro.codice }}</td>
+      <td>{{ pro.nome }}</td>
+      <td>{{ pro.descrizione }}</td>
+      <td>{{ pro.prezzo }} &euro;</td>
+    </tr>
+  </tbody>
+</table>
