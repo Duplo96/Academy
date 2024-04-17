@@ -136,3 +136,59 @@ Migrazione: è quel processo che mi permette di riversare i dettagli di una clas
 ogni modifica effettua una nuova migrazione tramite creazione di file con un timeStamp
 
 direttiva using è una direttiva che mi permette di utilizzare una variabile in un sottocontesto
+
+component in angular è una porzione di codice che ha 4 file ts hmtl css e spec
+
+il selettore '@Component' permette di innestare sottoforma di tag il componente
+
+linguaggio di markup linguaggio di marcatori, modifico la sua visualizzazione es. HTML
+
+Single page application non ricarica tutto il DOM ma lo manipola
+
+Router outlet ci permette di riportare il risultato di un componente e innestarlo dove serve,
+la particolarità del router outlet non cambia mai pagina e cambia il comportamento di google chrome intercettando la path/URL
+
+Ngoninit al caricamento di tutto il component
+
+Binding in angualr ce lo permette forms module
+
+Binding bidirenzionale tutte le variabili che inserisco all interno del ts sono visibili anche dall' HTML
+
+NgModule banana in the box
+
+Interface in angular possiamo visualizzare metodi e proprietà somiglia ad un astrazione in C#
+
+Extend in typescript estende metodi e attributi della classe padre alla classe figlio
+
+Promise gestisce delle chiamate asincrone, rimane in attesa del completamento può avere due risultati Rejected e resolved
+
+DBSET collezione di tutte le tipoligie di elemento relative ad un'entità
+
+Provider per effettuare la Get, effettuiamo un injection
+constructor(private http: HttpClient){}
+
+entità righe omogenee
+
+information hiding la capacità di nascondere informazioni dove non posso accedere ai dettagli o attributi della classe
+
+Lo static è un attributo di classe
+
+Modificatori di accesso: Public Private Protected
+
+Protected: L'accesso è limitato alla classe o ai tipi derivati dalla classe che li contiene.
+
+distinct seleziona un elemento senza ripetizioni
+
+SELECT \* FROM STUDENTE
+JOIN STUDENTE_ESAME ON STUDENTE.STUDENTEID = STUDENTE_ESAME.STUDENTERIF
+JOIN ESAME ON STUDENTE_ESAME.ESAMERIF = ESAME.ESAMEID
+
+AGGIUNGERE UN UNIQUE
+ALTER TABLE Person.Password  
+ADD CONSTRAINT AK_Password UNIQUE (PasswordHash, PasswordSalt);
+
+Linguaggio server side
+
+la parte di manipolazione e costruzione della struttura del mio codice gira all interno del server
+
+Un assembly è un insieme di parti o componenti che vengono assemblate insieme per formare un prodotto completo. Questo termine è comunemente usato in vari contesti, come la produzione industriale, la costruzione di macchinari, l'elettronica e l'informatica.
