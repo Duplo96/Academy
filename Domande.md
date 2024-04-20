@@ -16,6 +16,7 @@ View: Una tabella virtuale il cui contenuto è definito da una query
 
 ## Struttura ereditaria di interfaccie
 
+contenitori di
 IEnumerable
 ICollection
 IList
@@ -192,3 +193,23 @@ Linguaggio server side
 la parte di manipolazione e costruzione della struttura del mio codice gira all interno del server
 
 Un assembly è un insieme di parti o componenti che vengono assemblate insieme per formare un prodotto completo. Questo termine è comunemente usato in vari contesti, come la produzione industriale, la costruzione di macchinari, l'elettronica e l'informatica.
+
+Two tier è un architettura di un'applicazione web business logic e db, soprannominata fat client le operazioni di BSL e composizione del DOM
+
+DBMS è il software per lavorare sul database
+
+Query aggregazione group by, AVG, Count,MAX,MIN,SUM
+
+UNIQUE Vincolo interno sul dato
+Vincoli in SQL
+
+- vincolo d'integrità referenziale
+- vincolo interno
+
+Dato e informazione:
+L'informazione è una composizione di dati
+Il dato è un elemento atomico
+
+cookie: storage d'informazioni, viene emesso per la prima volta dal server, viene poi creato da google chrome
+
+Il cookie
