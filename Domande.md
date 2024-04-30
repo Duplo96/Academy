@@ -213,3 +213,19 @@ Il dato è un elemento atomico
 cookie: storage d'informazioni, viene emesso per la prima volta dal server, viene poi creato da google chrome
 
 Il cookie
+
+middleware Tutto ciò che si frappone tra controller e services
+
+## TOKEN:
+
+ISSUER Persona che richiede il token
+Audience verifica che il token sia proveniente dalla stessa fonte della sorgente
+
+Lifetime
+Validazione durata
+IssuerSIgningKey
+Valida per ogni singola richiesta che la chiave sia valida
+
+MongoDB non ha schema, non esistono join o rif quindi attenzione all'ON delete cascade perché non esiste
+Quando si lavora con MongoDB si lavora con un approccio CodeFirst
+Embending gestito le informazioni nel document specifico
