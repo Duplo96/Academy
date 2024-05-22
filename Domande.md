@@ -8,7 +8,7 @@ Seleziona tutte le colonne dalla tabella "PERSONA" filtrando con il WHERE per "P
 FOREIGN KEY: Vincolo di identità relazionale.
 
 Data Definition Language (DDL):
-- Manipolazione della struttura del database.
+Manipolazione della struttura del database.
 Data Manipulation Language (DML):
 
 Manipolazione dei dati.
