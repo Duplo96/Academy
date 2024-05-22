@@ -1,186 +1,197 @@
-Database
-SELECT:
+La SELECT è una proiezioni es. SELECT * FROM PERSONA WHERE PERSONAID = 1 Selezione tutte le colonne dalla tabella persona dove filtriamo con il WHERE per personaID
 
-sql
-Copia codice
-SELECT * FROM PERSONA WHERE PERSONAID = 1
-Seleziona tutte le colonne dalla tabella "PERSONA" filtrando con il WHERE per "PERSONAID".
-FOREIGN KEY: Vincolo di identità relazionale.
+FOREIGN KEY VINCOLO D' IDENTITA RELAZIONALE
 
-Data Definition Language (DDL):
-Manipolazione della struttura del database.
-Data Manipulation Language (DML):
+DDL: Data Definition Language, manipoliamo la struttura del database
+DML: Data Manipolation Language, manipoliamo i dati
+QL: Query Language: Non posso modificare dati con il QL serve solo a filtrare dati
+Store Procedure: è un metodo che permette di effettuare operazioni DML o QL passando dei parametri tabelle temporanee
 
-Manipolazione dei dati.
-Query Language (QL):
+View: Una tabella virtuale il cui contenuto è definito da una query
 
-Serve solo a filtrare dati, non modifica dati.
-Stored Procedure:
+Struttura ereditaria di interfaccie
+contenitori di IEnumerable ICollection IList List Abbiamo 3 interfaccie per i principi SOLID di programmazione
 
-Metodo per effettuare operazioni DML o QL passando parametri e tabelle temporanee.
-View:
+Tipo oggetto: Istanza di una classe
 
-Tabella virtuale il cui contenuto è definito da una query.
-Migrazione:
+Tipo Primitivo: stringhe, interi, booleano
 
-Processo per trasferire i dettagli di una classe C# nel database tramite la creazione di DDL; ogni modifica effettua una nuova migrazione con creazione di file con un timestamp.
-Soft Delete:
+Framework: Un insieme di librerie che intercorrono tra di loro
 
-Creazione di una colonna per gestire l'eliminazione del dato tramite booleano o datetime; il dato non viene eliminato ma solo settato su quel campo. Attenzione nelle join che il campo sia null o false; evitarla nelle relazioni One-to-One.
-ORM (Object-Relational Mapping):
+Posso effettuare l override(La ridefinizione) di un metodo solo se il metodo è virtual.
 
-Mapping del database.
-Query di Aggregazione:
+I metodi astratti sono metodi senza corpo e devono per forza essere implementati nelle classi figlie
 
-GROUP BY, AVG, COUNT, MAX, MIN, SUM.
-Esempio di JOIN:
+Utilizzo dell'interfaccia su metodi generici
 
-sql
-Copia codice
-SELECT * FROM STUDENTE 
-JOIN STUDENTE_ESAME ON STUDENTE.STUDENTEID = STUDENTE_ESAME.STUDENTERIF 
-JOIN ESAME ON STUDENTE_ESAME.ESAMERIF = ESAME.ESAMEID
-Aggiungere un vincolo UNIQUE:
+DAL design pattern architetturale
 
-sql
-Copia codice
-ALTER TABLE Person.Password
+Il generic è un tipo generico che tramite generico tipo possiamo poi utilizzarlo nel tipo di cui abbiamo bisogno lo utlizziamo nelle interfaccie
+
+Var posso ridichiarla let una volta ridichiarata può essere sovrascritta ma dichiarata una volta sola
+
+Scope globale(contesto)
+
+Static: Definiamo static un attributto o un metodo che all avvio del programma viene allocato
+
+Entrypoint: il main è il nostro entrypoint
+
+La firma di un metodo è una firma (signature) ovvero la definizione/dichiarazione del metodo con tipo di ritorno, nome del metodo, tipo e nome degli eventuali parametri passati in input
+
+overload è possibilità di ridefinire un metodo con diversa firma
+
+REST API:(Application programm interface) interfaccia di programmazione delle applicazioni conforme, interrogata tramite protocollo e rispettando una tipologia di comunicazione (JSON combinazione chiave valore, XML)
+
+Architettura client server:
+
+Richiesta client server in protocollo http
+
+GET: Una richiesta get passa per l URL web, ha un limite di caratteri che possiamo richiedere, ha un destinatario e un mittente e di risposta una stringa (negli header)
+
+POST: Nella post inserisco mittente e destinatario nell'header mentre il suo contenuto è nel body Se il payload è troppo grande viene scomposto in automatico dall'altro lato, se perdo un pacchetto questo viene rinviato
+
+Serializzatore json
+
+Buffer overflow Parse riconosce i vari elementi dell'oggetto
+
+Stringify trasforma l'oggetto in una stringa
+
+mine type l' encoding, suggerita al destinatario per leggere il nostro dato
+
+La pagina HTML inizia con il DOCTYPE serve a suggerire il tipo di scrittura del codice
+
+Un browser è un
+
+Chrome
+
+La restfull costruisce gli endPoint
+
+Una view è una tabella virtuale il cui contenuto è definito da una query
+
+Una store procedure consiste in una richiesta SQL contenuta in un DataBase
+
+DTO Data transfer Object = Un pattern per nascondere dati tra services e controller
+
+Parte invariante del database struttura
+
+Soft delete creo una colonna per gestire tramite booleano o datatime l'eliminazione del dato (che non viene eliminato nella pratica ma viene solo settato quel campo), in una possibile join dobbiamo fare attenzione che il campo sia null o false evitarla nelle One to One
+
+Partial class crea una classe parziale che posso dividere in un altro file
+
+AddSingleton viene inizializzato subito
+
+AddScoped non viene allocato all'inizio fino all'utilizzo
+
+Migrazione specifica per fare DDL
+
+Una riga della tabella che può contenere diverse tipologie di dati al suo interno es. intero e stringa In JS è un insieme di dati eterogenei
+
+Il DOM è tutti gli elementi all'interno del codice, è l albero che viene creato dai tag HTML
+
+Typescript è un super set di funzioni input typescript output javascript
+
+Object è una classe da cui tutte ereditano
+
+Una funzione è
+
+L'impronta di un contenuto è rappresentazione digitale del documento composta da una sequenza di simboli binari di lunghezza fissa che garantisce una associazione praticamente biunivoca tra l'impronta stessa ed il documento di origine.
+
+Size viene calcolata length invece è già disponibile
+
+IIS internet information services che mi garantisce la raggiungibilità della view
+
+La scatola di penne è aggreagazione perché entrambi esistono Il mazzo di fiori è composizione perché il mazzo non esiste senza i fiori
+
+processo per binding statico o dinamico persona per = new Docente() è un binding dinamico
+
+int numero= 5 è un binding statico
+
+Injection possiblità di creare una proprietà e iniettarla
+
+typescript super set di funzioni sulla base di javascript per renderlo typesafe
+
+typesafe= controllo del tipo per non cambiare variabili tipizzati
+
+Polimorfismo è typesafe, grazie al binding automatico si trasforma e non può più cambiare
+
+ORM: Mapping del database Object relation mapping
+
+Migrazione: è quel processo che mi permette di riversare i dettagli di una classe C# nel database tramite la creazione del DDL ogni modifica effettua una nuova migrazione tramite creazione di file con un timeStamp
+
+direttiva using è una direttiva che mi permette di utilizzare una variabile in un sottocontesto
+
+component in angular è una porzione di codice che ha 4 file ts hmtl css e spec
+
+il selettore '@Component' permette di innestare sottoforma di tag il componente
+
+linguaggio di markup linguaggio di marcatori, modifico la sua visualizzazione es. HTML
+
+Single page application non ricarica tutto il DOM ma lo manipola
+
+Router outlet ci permette di riportare il risultato di un componente e innestarlo dove serve, la particolarità del router outlet non cambia mai pagina e cambia il comportamento di google chrome intercettando la path/URL
+
+Ngoninit al caricamento di tutto il component
+
+Binding in angualr ce lo permette forms module
+
+Binding bidirenzionale tutte le variabili che inserisco all interno del ts sono visibili anche dall' HTML
+
+NgModule banana in the box
+
+Interface in angular possiamo visualizzare metodi e proprietà somiglia ad un astrazione in C#
+
+Extend in typescript estende metodi e attributi della classe padre alla classe figlio
+
+Promise gestisce delle chiamate asincrone, rimane in attesa del completamento può avere due risultati Rejected e resolved
+
+DBSET collezione di tutte le tipoligie di elemento relative ad un'entità
+
+Provider per effettuare la Get, effettuiamo un injection constructor(private http: HttpClient){}
+
+entità righe omogenee
+
+information hiding la capacità di nascondere informazioni dove non posso accedere ai dettagli o attributi della classe
+
+Lo static è un attributo di classe
+
+Modificatori di accesso: Public Private Protected
+
+Protected: L'accesso è limitato alla classe o ai tipi derivati dalla classe che li contiene.
+
+distinct seleziona un elemento senza ripetizioni
+
+SELECT * FROM STUDENTE JOIN STUDENTE_ESAME ON STUDENTE.STUDENTEID = STUDENTE_ESAME.STUDENTERIF JOIN ESAME ON STUDENTE_ESAME.ESAMERIF = ESAME.ESAMEID
+
+AGGIUNGERE UN UNIQUE ALTER TABLE Person.Password
 ADD CONSTRAINT AK_Password UNIQUE (PasswordHash, PasswordSalt);
-Vincoli in SQL:
 
-Vincolo d'integrità referenziale.
-Vincolo interno (UNIQUE).
-DBMS:
+Linguaggio server side
 
-Software per lavorare sul database.
-Programmazione
-Tipi di Dati:
+la parte di manipolazione e costruzione della struttura del mio codice gira all interno del server
 
-Tipo Oggetto: Istanza di una classe.
-Tipo Primitivo: Stringhe, interi, booleano.
-Framework:
+Un assembly è un insieme di parti o componenti che vengono assemblate insieme per formare un prodotto completo. Questo termine è comunemente usato in vari contesti, come la produzione industriale, la costruzione di macchinari, l'elettronica e l'informatica.
 
-Insieme di librerie che intercorrono tra di loro.
-Metodi:
+Two tier è un architettura di un'applicazione web business logic e db, soprannominata fat client le operazioni di BSL e composizione del DOM
 
-Override: Ridefinizione di un metodo; possibile solo se il metodo è virtual.
-Metodi Astratti: Metodi senza corpo che devono essere implementati nelle classi figlie.
-Firma di un Metodo (Signature): Definizione/dichiarazione del metodo con tipo di ritorno, nome del metodo, tipo e nome dei parametri.
-Overload: Possibilità di ridefinire un metodo con diversa firma.
-Scope:
+DBMS è il software per lavorare sul database
 
-Globale: Contesto globale.
-Static: Attributo o metodo allocato all'avvio del programma.
-Entry Point: Il main è l'entry point del programma.
-Programmazione Orientata agli Oggetti:
+Query aggregazione group by, AVG, Count,MAX,MIN,SUM
 
-Polimorfismo: Sicuro per i tipi (typesafe), grazie al binding automatico.
-Ereditarietà di Interfacce: Contenitori di IEnumerable, ICollection, IList, List.
-Binding Statico/Dinamico:
-Binding Statico: int numero= 5.
-Binding Dinamico: persona per = new Docente().
-Classi e Oggetti:
+UNIQUE Vincolo interno sul dato Vincoli in SQL
 
-Partial Class: Classe parziale che può essere divisa in un altro file.
-Static: Attributo di classe.
-Modificatori di Accesso: Public, Private, Protected.
-Design Pattern:
+vincolo d'integrità referenziale
+vincolo interno
+Dato e informazione: L'informazione è una composizione di dati Il dato è un elemento atomico
 
-DAL (Data Access Layer): Design pattern architetturale.
-DTO (Data Transfer Object): Pattern per nascondere dati tra servizi e controller.
-Dependency Injection:
+cookie: storage d'informazioni, viene emesso per la prima volta dal server, viene poi creato da google chrome
 
-AddSingleton: Inizializzato subito.
-AddScoped: Non viene allocato fino all'utilizzo.
-Assembly:
+Il cookie
 
-Insieme di parti o componenti assemblate insieme per formare un prodotto completo.
-Middleware:
+middleware Tutto ciò che si frappone tra controller e services
 
-Tutto ciò che si frappone tra controller e services.
-Linguaggi e Tecnologie Web
-JavaScript e TypeScript:
+TOKEN:
+ISSUER Persona che richiede il token Audience verifica che il token sia proveniente dalla stessa fonte della sorgente
 
-Var: Può essere ridichiarata.
-Let: Dichiarata una volta sola, può essere sovrascritta.
-TypeScript: Superset di funzioni per rendere JavaScript typesafe.
-TypeSafe: Controllo del tipo per non cambiare variabili tipizzate.
-DOM (Document Object Model):
+Lifetime Validazione durata IssuerSIgningKey Valida per ogni singola richiesta che la chiave sia valida
 
-Albero che viene creato dai tag HTML.
-HTML:
-
-Inizia con il DOCTYPE per suggerire il tipo di scrittura del codice.
-API REST:
-
-REST API: Interfaccia di programmazione delle applicazioni conforme, interrogata tramite protocollo, utilizzando JSON o XML.
-GET: Richiesta passa per l'URL, con limiti di caratteri; risposta in stringa negli header.
-POST: Contenuto nel body, mittente e destinatario nell'header; se il payload è troppo grande viene scomposto automaticamente.
-Serializzatore JSON: Trasforma l'oggetto in una stringa (Stringify) e riconosce i vari elementi (Parse).
-Cookie:
-
-Storage di informazioni; emesso per la prima volta dal server e creato dal browser.
-Token:
-
-Issuer: Persona che richiede il token.
-Audience: Verifica che il token provenga dalla stessa fonte.
-Lifetime: Validazione durata.
-IssuerSigningKey: Valida per ogni singola richiesta.
-Architettura
-Architettura Client-Server:
-
-Richiesta client-server in protocollo HTTP.
-Two-Tier:
-
-Architettura di un'applicazione web con business logic e database; soprannominata fat client per operazioni di BSL e composizione del DOM.
-Single Page Application (SPA):
-
-Non ricarica tutto il DOM, ma lo manipola.
-Angular
-Component:
-
-Porzione di codice con file ts, html, css e spec.
-Selector:
-
-@Component permette di innestare sottoforma di tag il componente.
-NgOnInit:
-
-Al caricamento di tutto il componente.
-Binding:
-
-Forms module permette il binding.
-Binding Bidirezionale: Variabili inserite nel ts sono visibili anche nell'HTML.
-NgModule:
-
-Rappresentato come "banana in the box".
-Router Outlet:
-
-Permette di riportare il risultato di un componente e innestarlo dove serve; non cambia mai pagina e cambia il comportamento del browser intercettando la path/URL.
-Interfaccia:
-
-Permette di visualizzare metodi e proprietà; somiglia a un'astrazione in C#.
-Extend:
-
-Estende metodi e attributi della classe padre alla classe figlio.
-Promise:
-
-Gestisce chiamate asincrone; può avere due risultati: Rejected e Resolved.
-HttpClient:
-
-Esempio di provider per effettuare una GET con injection:
-typescript
-Copia codice
-constructor(private http: HttpClient){}
-Altri Concetti
-Information Hiding:
-
-Capacità di nascondere informazioni, non accessibili ai dettagli o attributi della classe.
-Distinct:
-
-Seleziona un elemento senza ripetizioni.
-IIS (Internet Information Services):
-
-Garantisce la raggiungibilità della view.
-MongoDB:
-
-Database senza schema; attenzione alle join e ON DELETE CASCADE perché non esistono. Si lavora con un approccio CodeFirst Embedding gestendo le informazioni nel documento specifico.
+MongoDB non ha schema, non esistono join o rif quindi attenzione all'ON delete cascade perché non esiste Quando si lavora con MongoDB si lavora con un approccio CodeFirst Embending gestito le informazioni nel document specifico
